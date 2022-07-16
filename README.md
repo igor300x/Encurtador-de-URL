@@ -16,4 +16,6 @@ Algumas informações sobre os vídeos:
 :
 
 ##Encurtador de URL
-Operation Back-end created by Node.js, TypeScript, MongoDB, Git to database.
+
+
+Operação Back-end criado por Node.js, TypeScript, MongoDB, Git para banco de dados.
